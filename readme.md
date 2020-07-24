@@ -9,8 +9,8 @@
 
 ### 2.运行方法
 
-```git clone https://github.com/ZhyMC/qlearning-snake/```
-```cd qlearning-snake```
-```node snake.js```
+```git clone https://github.com/ZhyMC/qlearning-snake/```   
+```cd qlearning-snake```   
+```node snake.js```   
 
 
